@@ -1,6 +1,7 @@
 # 官方文档
 
 ## 智慧医疗实验室
+* [智慧医疗实验室]{:.heading.flip-title} --- 智慧医疗实验室
 * [通用指南]{:.heading.flip-title} --- 通用指南
 * [命名规范]{:.heading.flip-title} --- 命名规范
   {:.related-posts.faded}
@@ -18,6 +19,7 @@
 {:.related-posts.faded}
 
 [通用指南]: 通用指南.md
+[智慧医疗实验室]: 智慧医疗实验室.md
 [命名规范]: 命名规范.md
 [开发]: 开发.md
 [算法]: 算法.md
