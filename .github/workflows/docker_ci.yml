@@ -5,7 +5,7 @@ on:
     types: [published]
 
 env:
-  APP_NAME: pep.core.tcm
+  APP_NAME: web.document.tcm
 
 jobs:
   build:
